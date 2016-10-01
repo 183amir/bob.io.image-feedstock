@@ -49,8 +49,8 @@ requirements:
   - boost 1.61.*
 
 test:
-  commands:
-  - nosetests -sv bob.io.image
+  # commands:
+  # - nosetests -sv bob.io.image
 
   imports:
   - bob
